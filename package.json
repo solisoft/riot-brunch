@@ -1,5 +1,5 @@
 {
-  "name": "riot-brunch",
+  "name": "solisoft-riot-brunch",
   "version": "0.1.1",
   "description": "Adds RiotJS support to brunch.",
   "author": "Artem Yavorsky (http://yavorsky.org)",
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "progeny": "^0.11.0",
-    "riot": "^3.3"
+    "riot": "^3.11.1"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
